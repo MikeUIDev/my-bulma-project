@@ -1,0 +1,12 @@
+.DS_Store
+.git
+
+# Sass
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
+#npm
+node_modules
+css-dist
